@@ -1,0 +1,13 @@
+
+
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\CloudMe.exe" -r 4 --unique >> TheROPs.txt
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\Qt5Widgets.dll"  -r 4 --unique >> TheROPs.txt
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\Qt5Gui.dll"  -r 4  --unique >> TheROPs.txt
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\libwinpthread-1.dll"  -r 4  --unique >> TheROPs.txt
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\Qt5Xml.dll"  -r 4  --unique >> TheROPs.txt
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\Qt5Core.dll"  -r 4  --unique >> TheROPs.txt
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\Qt5Network.dll"  -r 4  --unique >> TheROPs.txt
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\qwindows.dll"  -r 4  --unique >> TheROPs.txt
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\Qt5Sql.dll"  -r 4  --unique >> TheROPs.txt
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\libgcc_s_dw2-1.dll"  -r 4  --unique >> TheROPs.txt
+.\rp-win.exe -f "C:\Users\Administrator\AppData\Local\Programs\CloudMe\CloudMe\libstdc++-6.dll"  -r 4  --unique >> TheROPs.txt
