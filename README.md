@@ -1,5 +1,5 @@
 # ROPme
-Bypass Data Execution Prevention (DEP) using ROP chains manually hard code
+Bypass Data Execution Prevention (DEP) Using VirtualAlloc in a ROP (Return-Oriented Programming) chains is a common technique to bypass DEP (Data Execution Prevention) by allocating executable memory in a process. The idea is to use a sequence of gadgets (short sequences of instructions ending in a return) to call VirtualAlloc or a similar function and allocate memory with PAGE_EXECUTE_READWRITE permissions. This allocated memory can then be used to execute shellcode
 
 
 
