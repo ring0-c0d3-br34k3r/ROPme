@@ -1,3 +1,7 @@
+// hay user, this is just an Methodology that i do before start writing the ROPs, thats can help me to build new movment & controle flow techniques 
+// its For VirtualProtect instead of VirtualAlloc
+// happy fuzzing <41
+
 ; BOOL WINAPI VirtualProtect(          =>    A pointer to VirtualProtect()
 ;   _In_   LPVOID lpAddress,           =>    Return Address (Redirect Execution to ESP)
 ;   _In_   SIZE_T dwSize,              =>    dwSize up to you to chose as needed (0x201)
