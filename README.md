@@ -43,3 +43,4 @@ shellcode += "\x23\x33\xde\x07\xa2\xa7\x82\xe9\x41\x40\x20\xf6"
 
 # resourses
 - [CS6265: Reverse Engineering and Binary Exploitation Lab](https://tc.gts3.org/cs6265/2021/_static/tut.pdf)
+- [Exploit Development: Hands Up! Give Us the Stack! This Is a ROPpery!](https://connormcgarr.github.io/ROP/)
