@@ -40,3 +40,6 @@ shellcode += "\x23\x33\xde\x07\xa2\xa7\x82\xe9\x41\x40\x20\xf6"
 
 # Demo 
 ### [Youtube video](https://www.youtube.com/watch?v=Jmxx7TdAzgw) 
+
+# resourses
+- [CS6265: Reverse Engineering and Binary Exploitation Lab](https://tc.gts3.org/cs6265/2021/_static/tut.pdf)
