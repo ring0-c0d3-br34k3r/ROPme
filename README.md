@@ -41,6 +41,17 @@ shellcode += "\x23\x33\xde\x07\xa2\xa7\x82\xe9\x41\x40\x20\xf6"
 # Demo 
 ### [Youtube video](https://www.youtube.com/watch?v=Jmxx7TdAzgw) 
 
-# resourses
+# References
 - [CS6265: Reverse Engineering and Binary Exploitation Lab](https://tc.gts3.org/cs6265/2021/_static/tut.pdf)
 - [Exploit Development: Hands Up! Give Us the Stack! This Is a ROPpery!](https://connormcgarr.github.io/ROP/)
+
+- [Beenu Arora. Shell code for beginners](https://www.exploit-db.com/docs/english/13019-shell-code-for-beginners.pdf)
+- [Exploit-db Ashfaq Ansari. Egg-hunter, a twist in buffer overflows](https://www.exploit-db.com/docs/english/18482-egg-hunter---a-twist-in-buffer-overflow.pdf)
+- [Exploit database John Leitch. Windows/x86 (xp sp3) (english) - calc.exe shellcode (16 bytes)](https://www.exploit-db.com/shellcodes/43773)
+- [National institute of Standards NATIONAL VULNERABILITY DATABASE and An official website of the U.S. government Technology. Most recent official vulnerabilities in vlc media player](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=vlc&search_type=all)
+- [Security Stackexchange. What does eip stand for](https://security.stackexchange.com/questions/129499/what-does-eip-stand-for)
+- [Stackoverflow. What and where are the stack and heap](https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
+- [Stackoverflow. What are the esp and the ebp registers](https://stackoverflow.com/questions/21718397/what-are-the-esp-and-the-ebp-registers)
+- [Stackoverflow. What is a reverse shell](https://stackoverflow.com/questions/35271850/what-is-a-reverse-shell)
+- [Microsoft Support. What is a dll](https://support.microsoft.com/en-us/help/815065/what-is-a-dll)
+
