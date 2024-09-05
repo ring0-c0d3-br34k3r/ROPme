@@ -57,5 +57,5 @@ shellcode += "\x23\x33\xde\x07\xa2\xa7\x82\xe9\x41\x40\x20\xf6"
 ### What are mitigations?
 - Over the years, new generic defense methods have been added to the new systems, which
 of course, as the name implies, do not prevent but mitigate or make exploitation more
-difficult. "[Customize exploit protection]"(https://learn.microsoft.com/en-us/defender-endpoint/customize-exploit-protection)
+difficult. "[Customize exploit protection](https://learn.microsoft.com/en-us/defender-endpoint/customize-exploit-protection)"
 
